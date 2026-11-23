@@ -1,4 +1,4 @@
-# indico
+# indico-skills
 
 Tools for searching CERN Indico talks/slides and CERN GitLab projects, packaged as a Claude Code skill (`.claude/skills/cern-search`).
 
